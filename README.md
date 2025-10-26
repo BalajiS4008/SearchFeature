@@ -1,0 +1,2 @@
+# SearchFeature
+Search like algolia
